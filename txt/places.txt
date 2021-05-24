@@ -1,0 +1,15 @@
+S01;Sightseeing;River Safari;Wildlife, Panda Bear, Cruise;4
+S02;Sightseeing;Singapore Flyer;Sightseeing;3.5
+S03;Sightseeing;Gardens by the Bay;Flower Dome, Cloud Forest;3.5
+S04;Shopping;Orchard Road;Ion, Takashimaya, Mandarin Gallery;4
+S05;Excitement;Universal Studios Singapore;Battlestar Galactica, Puss in Boots;4.5
+S06;Excitement;Marina Bay Sands;Casino, Sky Park Observation Deck;4
+S07;Excitement;Resorts World Sentosa;Trick Eye Museum, Adventure Cove, Casino;4.5
+S08;Night Life;Night Safari, Singapore;Wildlife, Tram Ride;4.5
+S09;Sightseeing;Singapore Botanic Gardens;Flower;3.5
+S10;Shopping;Chinatown, Singapore;Temple Street, Chinatown Mall, Heritage;3.5
+S11;Sightseeing;Raffles Hotel;Heritage;3.5
+S12;Shopping;Little India, Singapore;Shopping, Culture;4 
+S13;Sightseeing;Merlion Park;Singapore River;3.5
+S14;Sightseeing;Southern Ridges;Fresh Air,Picnic,Sightseeing;4.5
+S15;Excitement;Jewel Changi Airport;Rain Vortex, Forest Valley, Canopy Park;4.5
